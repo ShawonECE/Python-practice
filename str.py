@@ -1,0 +1,17 @@
+a = "HelloWorld!"
+# print(a)
+# print(a[4])
+# print(len(a))
+# print("W" in a)
+#print(a[:4])
+# print(a[4:])
+print(a[4:4])
+# print(a[-7:-2])
+# print(a.upper())
+# print(a.lower())
+# print(a.strip())
+# print(a.replace('World','Shawon'))
+#for x in "banana":
+#  print(x)
+#print(a.split())
+#print(a.count('l'))
